@@ -1,0 +1,3 @@
+I have created the Terraform script to create EC2 instance.
+Method used : Created Variables, Terraform.tfvars seperately for clean code.
+If you want to use this, change the EC2 AMI value and Instance type value in Terraform.tfvars file.
